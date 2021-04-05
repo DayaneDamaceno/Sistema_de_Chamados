@@ -1,0 +1,7 @@
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\1BIM\SistemaDeChamados\bin\Debug\SistemaDeChamados.exe.config
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\1BIM\SistemaDeChamados\bin\Debug\SistemaDeChamados.exe
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\1BIM\SistemaDeChamados\bin\Debug\SistemaDeChamados.pdb
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\1BIM\SistemaDeChamados\obj\Debug\SistemaDeChamados.csprojAssemblyReference.cache
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\1BIM\SistemaDeChamados\obj\Debug\SistemaDeChamados.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\1BIM\SistemaDeChamados\obj\Debug\SistemaDeChamados.exe
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\1BIM\SistemaDeChamados\obj\Debug\SistemaDeChamados.pdb
